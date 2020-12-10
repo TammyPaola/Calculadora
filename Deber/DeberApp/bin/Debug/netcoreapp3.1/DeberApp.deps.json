@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DeberApp/1.0.0": {
+        "dependencies": {
+          "Calculadora": "1.0.0"
+        },
+        "runtime": {
+          "DeberApp.dll": {}
+        }
+      },
+      "Calculadora/1.0.0": {
+        "runtime": {
+          "Calculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeberApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

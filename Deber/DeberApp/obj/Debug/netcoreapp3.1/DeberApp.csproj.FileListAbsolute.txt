@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\DeberApp.exe
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\DeberApp.deps.json
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\DeberApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\DeberApp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\DeberApp.dll
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\DeberApp.pdb
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.dll
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.pdb
+C:\Users\Usuario\Desktop\Deber1\Deber\DeberApp\obj\Debug\netcoreapp3.1\DeberApp.genruntimeconfig.cache
